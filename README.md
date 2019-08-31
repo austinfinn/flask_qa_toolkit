@@ -1,2 +1,2 @@
 # Test Data Toolkit
-This a very simple web application, but with Flask, that lets users query a database and make network calls. It allows users to combine existing datasources (data from the db or endpoints) in new combinations. This simplifies the issue of finding test data.
+This a very simple web application, built with Flask, that lets users query a database and make network calls. It allows users to combine existing datasources (data from the db or endpoints) in new combinations. This can help simplify the issue of finding real test data in the correct state.
